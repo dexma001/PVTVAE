@@ -1,0 +1,16 @@
+#가중치
+*.pth
+
+# Data with Pytorch Module
+*.pt
+
+# txt
+demo_results/*.txt
+
+# Original Data
+Sample_Data
+
+# Next assignment
+Watch_in_Program
+
+euler_to_quart_advanced_indi_raw.py
